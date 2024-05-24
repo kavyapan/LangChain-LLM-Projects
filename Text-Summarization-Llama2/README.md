@@ -17,4 +17,4 @@ These code blocks collectively form the core functionality of the text summariza
 ### Requirements
 **1.Download the Llama2 Model**: The latest Llama2 Model can be downloaded from [huggingface](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) and save in the folder named models in project directory.  
 **2.Install Requirements**:Activate the virtual environment and install necessary libraries/modules `pip install -r requirements.txt`  
-**3.Run Streamlit App**: For running the application you simply need to go to the terminal and write `streamlit run app.py`  
+**3.Run Streamlit App**: For running the application you simply need to go to the terminal and write `streamlit run texts_app.py`  
