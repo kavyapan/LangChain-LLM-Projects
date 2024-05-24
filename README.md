@@ -12,7 +12,7 @@ The Blog generation project contains a simple web application built with Streaml
 
 **App Response**
 
-<img src="https://https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.jpg" alt="Image" width="300"/>
+<img src="https://https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.jpg" alt="Image" width="150"/>
 
 ![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG)
 ![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response_2.JPG)
