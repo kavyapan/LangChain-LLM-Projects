@@ -11,7 +11,7 @@ from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 
 
-# Function to split data into smaller chunks and convert in document format
+# Function to split data into smaller chunks 
 def create_chunks(txt):
     
     text_splitter = CharacterTextSplitter() 
@@ -20,7 +20,7 @@ def create_chunks(txt):
     
     return docs
     
-# Llama 2 LLM
+# Llama2 LLM
 def load_llm_model():
     # We instantiate the callback with a streaming stdout handler
     callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])   
@@ -33,7 +33,7 @@ def load_llm_model():
         
     return llm
  
-# Functions to generate response 
+# Function to generate response 
 def generate_response(docs):
     
     llm = load_llm_model()
@@ -54,7 +54,7 @@ txt_input = st.text_area('Enter the text to be summarized', '', height=250)
 result = []
 with st.form('summarize_form', clear_on_submit=True):
     submitted = st.form_submit_button('Submit')
-    #if submitted and openai_api_key.startswith('sk-'):
+    
     if submitted:
         with st.spinner('Processing...'):
             docs = create_chunks(txt_input)
