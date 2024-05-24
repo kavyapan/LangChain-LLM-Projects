@@ -1,10 +1,10 @@
 ## Text-Summarization-Llama2
-Leveraging the power of the Llama2 text summarization model, this project offers a streamlined solution for condensing lengthy documents into concise summaries, facilitating quick comprehension of key points.
+Leveraging the power of the Llama2 , this project offers a streamlined solution for condensing lengthy documents into concise summaries, facilitating quick comprehension of key points.
 
 ## Explanation
 The project provides functions to split data into smaller chunks, load the Llama2 model, and generate summarization responses:
 
-**1.Function to split data into smaller chunks and convert in document format:** This function takes a text input and splits it into smaller chunks using a CharacterTextSplitter. Each chunk is then converted into a Document object. The function returns a list of these Document objects, representing the segmented text.
+**1.Function to split data into smaller chunks :** This function takes a text input and splits it into smaller chunks using a CharacterTextSplitter. The function returns a list of these Document objects, representing the segmented text.
 
 **Llama 2 LLM:** Here, a function named load_llm_model is defined, responsible for loading the Llama2 model for text summarization. It initializes a callback manager and loads the Llama2 model using the CTransformers class. The function returns the loaded Llama2 model.
 
