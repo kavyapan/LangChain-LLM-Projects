@@ -11,7 +11,8 @@ Text Summarization with Llama2 is a Python project designed to summarize large b
 The Blog generation project contains a simple web application built with Streamlit for generating blog content based on user inputs. The application utilizes the LLaMA 2 language model for generating responses.
 
 **App Response**
-<img src="https://https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG" alt="Image" width="300"/>
+
+<img src="https://https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG", alt="Image" width="300"/>
 
 ![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG)
 ![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response_2.JPG)
