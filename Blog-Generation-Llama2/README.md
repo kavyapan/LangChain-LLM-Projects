@@ -19,3 +19,6 @@ selection: The target audience for the blog, which can be either "Children" or "
 **1.Download the Llama2 Model**: The latest Llama2 Model can be downloaded from [huggingface](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) . Ensure that the LLaMA 2 model file (llama-2-7b-chat.ggmlv3.q8_0.bin) is placed in the model directory before running the application.
 **2.Install Requirements**:Activate the virtual environment and install necessary libraries/modules `pip install -r requirements.txt`  
 **3.Run Streamlit App**: For running the application you simply need to go to the terminal and write `streamlit run blog_app.py` 
+
+**Blog Generation App Response**  
+![Image](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG)
