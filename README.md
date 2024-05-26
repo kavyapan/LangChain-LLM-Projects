@@ -8,17 +8,4 @@ Text Summarization with Llama2 is a Python project designed to summarize large b
 The Blog generation project contains a simple web application built with Streamlit for generating blog content based on user inputs. The application utilizes the LLaMA 2 language model for generating responses.
 
 ## [3.YouTube-VideoSummarizer-QnA-Gemini](https://github.com/kavyapan/LangChain-LLM-Projects/tree/main/YouTube_VideoSummarizer_QnA)  
-This application allows users to summarize YouTube videos based on their transcripts and perform question answering tasks using the generated summaries. The summarization and question answering tasks are powered by the Gemini Pro model from Google Generative AI.  
-
-
-
-
-
-**Text Summaization App Response**  
-![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Text-Summarization-Llama2/app_response.JPG)  
-
-
-
-**Blog Generation App Response**  
-![Image](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Blog-Generation-Llama2/app-response.JPG)
-
+This project allows users to summarize YouTube videos based on their transcripts and perform question answering tasks using the generated summaries. The summarization and question answering tasks are powered by the Gemini Pro model from Google Generative AI.  
