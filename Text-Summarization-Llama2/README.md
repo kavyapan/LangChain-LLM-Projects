@@ -18,3 +18,10 @@ These code blocks collectively form the core functionality of the text summariza
 **1.Download the Llama2 Model**: The latest Llama2 Model can be downloaded from [huggingface](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main) and save in the folder named models in project directory.  
 **2.Install Requirements**:Activate the virtual environment and install necessary libraries/modules `pip install -r requirements.txt`  
 **3.Run Streamlit App**: For running the application you simply need to go to the terminal and write `streamlit run texts_app.py`  
+
+**Text Summaization App Response**  
+![App Response](https://github.com/kavyapan/LangChain-LLM-Projects/blob/main/Text-Summarization-Llama2/app_response.JPG)  
+
+
+
+
